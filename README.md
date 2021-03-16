@@ -7,8 +7,9 @@
   * See the docs here: https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll
 
 * We can customize the theme's layout and design (CSS) by overwriting the theme's file. 
-  * That is, look in the original theme repo and create corresponding folders and files with the customizations you want in order to overwrite the original theme files.
+  * That is, look in the original theme code and create corresponding folders and files with the customizations you want in order to overwrite the original theme files.
   * See the docs here: https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css
+  * However, there might be slight changes to the theme from the github repo for the theme might differ from what you actually use locally when building, so then check what you're actually using locally: `bundle info minima` and copy resources from there.
 
 * To add new content, create a new `.md` file in the root folder
   * See the docs here: https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site
