@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Funin App - Privacy Policy
 permalink: /funin/privacy
 ---
 
-Funin App - Privacy Policy
+{% include privacy_policy.html %}
