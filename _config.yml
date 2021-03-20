@@ -42,6 +42,8 @@ plugins:
 header_pages:
   - index.md
   - funin.md
+  - nostress.md
+  - fitrogue.md
   - about.md
 
 # Exclude from processing.
