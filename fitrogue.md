@@ -4,6 +4,8 @@ title: FitRogue
 permalink: /fitrogue
 ---
 
+### FitRogue
+
 ![In the middle of a fitrogue fight!](/assets/fitrogue2.png)
 
 FitRogue is a game that uses health and wellness data to determine a user’s progress in a rogue-like dungeon. The tag-line for FitRogue is “Your health in an emoji rogue-like adventure”. The game connects to the Google Fit services to read the user’s health data and depending on the stats (number of steps, hours of sleep, hours of meditation) provide different options for armours, weapons, and features in the game.

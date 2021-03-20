@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+### About
+
 Healthy Mind Tech is a start-up organization with the vision of improving people’s lives using technology.
 
 ### Our team
