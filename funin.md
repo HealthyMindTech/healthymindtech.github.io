@@ -4,11 +4,15 @@ title: Funin
 permalink: /funin
 ---
 
+### Funin
+
 Funin is an app for ...
 
 Let the fun begin!
 
 Coming soon on a device in your pocket...
+
+<hr/><br/>
 
 * [Terms of Service]({{ site.baseurl }}{% link funin_terms.md %})
 * [Privacy Policy]({{ site.baseurl }}{% link funin_privacy.md %})

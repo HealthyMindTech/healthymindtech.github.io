@@ -4,29 +4,51 @@
 layout: home
 ---
 
-## HealthyMindTech
+### Healthy Mind Tech is a start-up organization with the vision of improving people’s lives using technology.
 
-### Our team
 
-Our team has extensive experience in the areas of software and hardware and a track record of
-successfully delivering products and services in these areas. In particular, we have expertise in
-software development, project management, finance, leadership, marketing, healthcare, digital
-health technology, robotics, and automation.
+## Our projects
 
-### Our projects
+<style>
+    .card {
+        /* Add shadows to create the "card" effect */
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+    }
 
-#### NoStress
+    /* On mouse-over, add a deeper shadow */
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
 
-NoStress is an AI based tool that predicts work related stress levels by using data collected via smartphones, wearables, services such as email, calendar, weather information, and self-reports of stress and well-being. The concept is to extract features from these data sources and develop a personalized model to predict and flag that an individual is at risk of suffering from harmful stress. This will make it possible to intervene in an early stage, to minimize the risk of chronic stress-related illnesses. NoStress allows businesses to access anonymized, department-level data on stress, and data that can help to detect lack of resources on a team/department level. Additionally, NoStress wishes to result in higher employee satisfaction scores. 
+    /* Add some padding inside the card container */
+    .container {
+        padding: 10px 16px;
+    }
+</style>
 
-With NoStress our team has reached the finals of Accenture’s HumAInity Challenge 2020, selected as one of the 4 finalists out of 60 proposals. We currently have an interactive prototype that can be demoed to potential users in order to refine the design and proceed with implementation and release. 
+<br/>
+<div class="card" style="width:90%; margin: auto;">
+  <a href="fitrogue.html"><img src="assets/fitrogue2.png" alt="Avatar" style="width:100%"></a>
+  <div class="container">
+    <h4><b>FitRogue</b></h4>
+    <p>Your health in an emoji rogue-like adventure</p>
+  </div>
+</div>
+<br/>
+<div class="card" style="width:90%; margin: auto;">
+  <a href="funin.html"><img src="assets/funin1.png" alt="Avatar" style="width:100%"></a>
+  <div class="container">
+    <h4><b>Funin</b></h4>
+    <p>Share creative ideas of having fun indoors while working remotely</p>
+  </div>
+</div>
+<br/>
+<div class="card" style="width:90%; margin: auto;">
+  <a href="nostress.html"><img src="assets/nostress_ai_challenge_paula.jpeg" alt="Avatar" style="width:100%"></a>
+  <div class="container">
+    <h4><b>NoStress</b></h4>
+    <p>Prevent stress before it becomes serious</p>
+  </div>
+</div>
 
-#### Fitrogue
-
-![In the middle of a fitrogue fight!](/assets/fitrogue2.png)
-
-FitRogue is a game that uses health and wellness data to determine a user’s progress in a rogue-like dungeon. The tag-line for FitRogue is “Your health in an emoji rogue-like adventure”. The game connects to the Google Fit services to read the user’s health data and depending on the stats (number of steps, hours of sleep, hours of meditation) provide different options for armours, weapons, and features in the game.
-
-![Getting ready for the action](/assets/fitrogue1.png)
-
-With FitRogue our team won the Junction 2019 hackathon challenge by Rovio, imagining Angry Birds in 10 Years. The game is fully functional and the next step is building on top of it with additional functionality in terms of user login, tracking over time, gamification, and integration of additional sources. 
