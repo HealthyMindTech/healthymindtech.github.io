@@ -1,14 +1,12 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
 ---
 
-## Healthy Mind Tech is a start-up organization with the vision of improving people’s lives using technology.
+### Healthy Mind Tech is a start-up organization with the vision of improving people’s lives through technology.
 
-## 
-
-## Our projects
+<br/>
 
 <style>
     .card {
