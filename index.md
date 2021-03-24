@@ -4,6 +4,9 @@
 layout: home
 ---
 
+## Healthy Mind Tech is a start-up organization with the vision of improving people’s lives using technology.
+
+## 
 
 ## Our projects
 
