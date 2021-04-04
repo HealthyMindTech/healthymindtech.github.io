@@ -24,7 +24,7 @@ Link to Terms and Conditions of third party service providers used by the app:
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-TThe app includes user-generated content and implements several mechanisms to filter, report and allow users to block objectionable content and abusive users. Reported content will be reviewed within 24 hours and the content and/or the offending user will be removed accordingly. Three reports from different users lead to content being removed immediately and automatically. A later manual review will be carried out.
+The app includes user-generated content and implements several mechanisms to filter, report and allow users to block objectionable content and abusive users. Reported content will be reviewed within 24 hours and the content and/or the offending user will be removed accordingly. Three reports from different users lead to content being removed immediately and automatically. A later manual review will be carried out.
 
 You should be aware that there are certain things that Healthy Mind Tech Aps will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Healthy Mind Tech Aps cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
