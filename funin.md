@@ -4,7 +4,7 @@ title: Funin
 permalink: /funin
 wrapperwide: true
 applestore: https://apps.apple.com/app/funin/id1559443266
-googlestore: https://apps.apple.com/app/funin/id1559443266
+googlestore: https://play.google.com/store/apps/details?id=com.healthymindtech.funin
 ---
 
 <div class="container container-funin-type1">
@@ -18,7 +18,7 @@ googlestore: https://apps.apple.com/app/funin/id1559443266
 
 <div class="container container-funin-type2">
   <br/><br/>
-  <p class="funin-heading">Working from home? Take a break and have fun indoors!</p>
+  <p class="funin-heading">Working from home? <br/>Take a break and have fun indoors!</p>
   <br/><br/>
   <p class="funin-description">Join a community of people sharing ideas on how to keep connected, motivated, create engagement and help restore energy in remote teams.</p>
   <br/><br/>
