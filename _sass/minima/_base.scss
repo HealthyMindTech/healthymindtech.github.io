@@ -118,9 +118,9 @@ a {
   .social-media-list &:hover {
     text-decoration: none;
 
-    .username {
-      /*text-decoration: underline;*/
-    }
+    /*.username {
+      text-decoration: underline;
+    }*/
   }
 }
 
@@ -191,7 +191,11 @@ pre {
   }
 }
 
-
+.wrapper-funin {
+  margin-right: auto;
+  margin-left: auto;
+  @extend %clearfix;
+}
 
 /**
  * Clearfix

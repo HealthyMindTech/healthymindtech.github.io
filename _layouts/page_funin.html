@@ -12,7 +12,11 @@
     {%- include header_funin.html -%}
 
     <main class="page-content" aria-label="Content">
+      {%- if page.wrapperwide -%}
+      <div class="wrapper-funin">
+      {%- else -%}
       <div class="wrapper">
+      {%- endif -%}
         <article class="post">
           <div class="post-content">
             {{ content }}

@@ -209,6 +209,74 @@
 }
 
 
+/**
+ * Funin page content
+ */
+
+.funin-col-wrapper {
+  margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
+  display: inline-block;
+  color: #565656;
+}
+
+.funin-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  padding-right: $spacing-unit / 2;
+}
+
+.funin-col-1 {
+  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+  width:         calc(55% - (#{$spacing-unit} / 2));
+}
+
+.funin-col-2 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-palm) {
+  .funin-col-1, .funin-col-2 {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+.container-funin-type1 {
+  background: white;
+  text-align: center;
+}
+
+.container-funin-type2 {
+  background: #efefef;
+  text-align: center;
+}
+
+.container-funin-type3 {
+  background: #FF5900;
+  text-align: center;
+}
+
+.funin-heading {
+  font-size: 35px;
+  max-width: 800px;
+  display: inline-block;
+  text-align: center;
+}
+
+.funin-heading-white {
+  color: white;
+}
+
+.funin-description {
+  font-size: 20px;
+  max-width:400px;
+  display: inline-block;
+  text-align: center;
+}
 
 /**
  * Posts
