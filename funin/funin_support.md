@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_funin
 title: Funin App - Support
 permalink: /funin/support
 ---
@@ -11,9 +11,9 @@ permalink: /funin/support
 
 **Q**: Questions about Terms of Service or Privacy Policy?  
 **A**: Check out the below:
-* [Terms of Service]({{ site.baseurl }}{% link funin_terms.md %})
-* [Privacy Policy]({{ site.baseurl }}{% link funin_privacy.md %})
-* [Community Guidelines]({{ site.baseurl }}{% link funin_content.md %})
+* [Terms of Service]({{ site.baseurl }}{% link funin/funin_terms.md %})
+* [Privacy Policy]({{ site.baseurl }}{% link funin/funin_privacy.md %})
+* [Community Guidelines]({{ site.baseurl }}{% link funin/funin_content.md %})
 
 ### Support
 

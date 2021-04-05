@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_funin
 title: Funin App - Content and Community Guidelines 
 permalink: /funin/content
 ---

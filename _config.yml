@@ -28,11 +28,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 linkedin_username: healthymindtech
 github_username:  HealthyMindTech
+website: healthymindtech.com
 
 google_analytics: G-1YNZSYQDES
 
-address: Soender Boulevard 66, 4TV, 1720 Copengagen, Denmark
+address: Soender Boulevard 66, 4TV, 1720 Copenhagen, Denmark
 cvr_number: 42155292
+
+funin_footer: Funin is a product of Healthy Mind Tech.
 
 # Build settings
 theme: minima

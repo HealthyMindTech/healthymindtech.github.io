@@ -3,7 +3,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!--<h2 class="footer-heading">{{ site.title | escape }}</h2>-->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -15,27 +15,20 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            <br/>
             {%- if site.cvr_number -%}
             <li>CVR: {{ site.cvr_number }}</li>
-            {%- endif -%}
-            {%- if site.address -%}
-            <li>Address: {{ site.address }}</li>
-            {%- endif -%}
-            {%- if site.email -%}
-            <br/>
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-       
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        {%- include social.html -%}
+         {%- include social_icons.html -%}
+         {%- if site.email -%}
+         <br/><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+         {%- endif -%}
       </div>
     </div>
 

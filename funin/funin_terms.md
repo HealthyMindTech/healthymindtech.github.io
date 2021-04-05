@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_funin
 title: Funin App - Terms of Service
 permalink: /funin/terms
 ---
