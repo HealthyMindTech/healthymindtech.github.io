@@ -28,6 +28,7 @@ url: "https://healthymindtech.com" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 linkedin_username: healthymindtech
 github_username:  HealthyMindTech
+facebook_username: healthymindtech
 website: healthymindtech.com
 
 google_analytics: G-1YNZSYQDES
