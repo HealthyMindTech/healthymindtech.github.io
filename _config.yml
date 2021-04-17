@@ -24,7 +24,7 @@ author: Healthy Mind Tech ApS
 description: >- # this means to ignore newlines until "baseurl:"
   Healthy Mind Tech is a start-up organization with the vision of improving people’s lives using technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://healthymindtech.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 linkedin_username: healthymindtech
 github_username:  HealthyMindTech
