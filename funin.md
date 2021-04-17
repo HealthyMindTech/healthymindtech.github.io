@@ -5,6 +5,8 @@ permalink: /funin
 wrapperwide: true
 applestore: https://apps.apple.com/app/funin/id1559443266
 googlestore: https://play.google.com/store/apps/details?id=com.healthymindtech.funin
+summary: Funin is an app for sharing creative ways of surviving covid and keeping remote teams connected
+image: /assets/funin_android_feature.png
 ---
 
 <div class="container container-funin-type1">
