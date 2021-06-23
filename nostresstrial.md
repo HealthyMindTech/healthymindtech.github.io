@@ -12,10 +12,12 @@ The solution will increase SME’s capabilities to test and bring innovative bio
 
 ![NoStressTrial](/assets/nostress_trial_long.png)
 
-This idea was developed as part the EU challenge. 
+This idea was developed as part the [Data 4 Healthy Recovery Hackathon European initiative](https://eventornado.com/event/data-4-healthy-recovery#home)
 
-With this idea, our team won the *Medical products development and manufacturing streamlining* challenge, as well as 1st place in the overall hackathon. 
+With this idea, our team won the __Medical products development and manufacturing streamlining__ challenge, as well as __1st place in the overall hackathon__. 
 
-Here is our idea in more detail: https://eventornado.com/submission/nostressdesign?s=1#idea
+Here is our idea in more detail: [https://eventornado.com/submission/nostressdesign?s=1#idea](https://eventornado.com/submission/nostressdesign?s=1#idea)
 
-And a 3 minute video pitch: https://youtu.be/-oHu0ykeNUM 
+And a 3 minute video pitch: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-oHu0ykeNUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
