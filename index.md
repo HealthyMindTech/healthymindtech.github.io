@@ -11,6 +11,15 @@ layout: page_main
 <div class="hmt-col-wrapper">
   <div class="hmt-col hmt-col-1">
     <div class="card" >
+      <a href="nostresstrial.html"><img src="assets/nostress_trial.png" alt="Avatar" style="width:100%"></a>
+      <div class="container card-container">
+        <h4><b>NoStressTrial</b></h4>
+        <p>A platform for planning, running and reporting on clinical trials</p>
+      </div>
+    </div>
+  </div>
+  <div class="hmt-col hmt-col-2">
+    <div class="card" >
       <a href="fitrogue.html"><img src="assets/fitrogue_thumb.png" alt="Avatar" style="width:100%"></a>
       <div class="container card-container">
         <h4><b>FitRogue</b></h4>
@@ -18,6 +27,8 @@ layout: page_main
       </div>
     </div>
   </div>
+</div>
+<div class="hmt-col-wrapper">
   <div class="hmt-col hmt-col-2">
     <div class="card" >
       <a href="funin.html"><img src="assets/funin1.png" alt="Avatar" style="width:100%"></a>
@@ -27,9 +38,7 @@ layout: page_main
       </div>
     </div>
   </div>
-</div>
-<div class="hmt-col-wrapper">
-  <div class="hmt-col hmt-col-1">
+  <div class="hmt-col hmt-col-2">
     <div class="card">
       <a href="nostress.html"><img src="assets/nostress_ai_challenge_paula.jpeg" alt="Avatar" style="width:100%"></a>
       <div class="container card-container">
@@ -37,8 +46,6 @@ layout: page_main
         <p>Prevent stress before it becomes serious</p>
       </div>
     </div>
-  </div>
-  <div class="hmt-col hmt-col-2">
   </div>
 </div>
 

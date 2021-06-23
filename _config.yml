@@ -29,6 +29,7 @@ url: "https://healthymindtech.com" # the base hostname & protocol for your site,
 linkedin_username: healthymindtech
 github_username:  HealthyMindTech
 facebook_username: healthymindtech
+angel_website: https://angel.co/company/healthy-mind-tech
 website: healthymindtech.com
 
 google_analytics: G-1YNZSYQDES
@@ -47,6 +48,7 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - funin.md
+  - nostresstrial.md
   - nostress.md
   - fitrogue.md
   - about.md
