@@ -1,0 +1,18 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1"><h3>{{ site.funin_footer | escape}}</h3></div>
+      <div class="footer-col footer-col-2">{%- include social_icons.html -%}</div>
+      <div class="footer-col footer-col-3">
+        <a href="{{ site.baseurl }}{% link funin/funin_terms.md %}">Terms of Service</a> | 
+        <a href="{{ site.baseurl }}{% link funin/funin_privacy.md %}">Privacy Policy</a> | 
+        <a href="{{ site.baseurl }}{% link funin/funin_content.md %}">Community Guidelines</a> | 
+        <a href="{{ site.baseurl }}{% link funin/funin_support.md %}">Support</a> | 
+        <a href="{{ site.baseurl }}{% link about.md %}">About Healthy Mind Tech</a>
+      </div>
+    </div>
+  </div>
+</footer>
